@@ -32,3 +32,8 @@ D:\Git\DotNetCore\QuickMaster\QuickMaster\obj\Debug\netcoreapp2.1\QuickMaster.pd
 D:\Git\DotNetCore\QuickMaster\QuickMaster\obj\Debug\netcoreapp2.1\QuickMaster.csproj.CopyComplete
 D:\Git\DotNetCore\QuickMaster\QuickMaster\obj\Debug\netcoreapp2.1\Razor\Views\Hello\Greet.g.cshtml.cs
 D:\Git\DotNetCore\QuickMaster\QuickMaster\obj\Debug\netcoreapp2.1\Razor\Views\Hello\List.g.cshtml.cs
+D:\Git\DotNetCore\QuickMaster\QuickMaster\obj\Debug\netcoreapp2.1\Razor\Views\Books\Create.g.cshtml.cs
+D:\Git\DotNetCore\QuickMaster\QuickMaster\obj\Debug\netcoreapp2.1\Razor\Views\Books\Delete.g.cshtml.cs
+D:\Git\DotNetCore\QuickMaster\QuickMaster\obj\Debug\netcoreapp2.1\Razor\Views\Books\Details.g.cshtml.cs
+D:\Git\DotNetCore\QuickMaster\QuickMaster\obj\Debug\netcoreapp2.1\Razor\Views\Books\Edit.g.cshtml.cs
+D:\Git\DotNetCore\QuickMaster\QuickMaster\obj\Debug\netcoreapp2.1\Razor\Views\Books\Index.g.cshtml.cs

@@ -45,6 +45,9 @@ namespace QuickMaster.Controllers
         // GET: Books/Create
         public IActionResult Create()
         {
+            // テーブルから重複のない出版社名を取得
+            var list = this._context.Books.Select(b => new { b.Publisher }).Distinct();
+            ViewBag.Opts = new SelectList(list, "Publisher", "Publisher");
             return View();
         }
 
